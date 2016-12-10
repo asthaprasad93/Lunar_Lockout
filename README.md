@@ -21,8 +21,9 @@ from the initial setup, the red spacecraft moves up, left, down, then left to fi
 this simple puzzle, only the red robot had to move. In the more complex puzzles, we also require other helper
 spacecraft to move. Puzzle 2 is an example requiring another helper robot to move as well.
 
-![alt text](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/Puzzle1_Solution.png)
-![alt text](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/Puzzle2_solution.png)
+![alt text](https://github.com/asthaprasad93/Lunar_Lockout/blob/master/Images/Puzzle1_Solution.png)
+
+![alt text](https://github.com/asthaprasad93/Lunar_Lockout/blob/master/Images/Puzzle2_solution.png)
 
 
 
