@@ -23,7 +23,7 @@ spacecraft to move. Puzzle 2 is an example requiring another helper robot to mov
 
 ![alt text](https://github.com/asthaprasad93/Lunar_Lockout/blob/master/Images/Puzzle1_Solution.png)
 
-![alt text](https://github.com/asthaprasad93/Lunar_Lockout/blob/master/Images/Puzzle2_solution.png)
+![alt text](https://github.com/asthaprasad93/Lunar_Lockout/blob/master/Images/Puzzle2_Solution.png)
 
 
 
