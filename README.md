@@ -5,7 +5,7 @@ The lunar lockout game has several pieces. First, we have a 5x5 game board with 
 middle. Next, we have 5 helper spacecraft in various colors and then 1 red spacecraft. We are also given card
 that specify initial setup position for some subset of spacecraft. On the back of each card is a solution.
 
-![alt tag](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/LL_Setup.png)
+![alt text](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/LL_Setup.png)
 
 Game Description
 
@@ -21,8 +21,8 @@ from the initial setup, the red spacecraft moves up, left, down, then left to fi
 this simple puzzle, only the red robot had to move. In the more complex puzzles, we also require other helper
 spacecraft to move. Puzzle 2 is an example requiring another helper robot to move as well.
 
-![alt tag](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/Puzzle1_Solution.png)
-![alt tag](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/Puzzle2_solution.png)
+![alt text](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/Puzzle1_Solution.png)
+![alt text](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/Puzzle2_solution.png)
 
 
 
