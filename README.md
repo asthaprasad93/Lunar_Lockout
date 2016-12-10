@@ -5,6 +5,8 @@ The lunar lockout game has several pieces. First, we have a 5x5 game board with 
 middle. Next, we have 5 helper spacecraft in various colors and then 1 red spacecraft. We are also given card
 that specify initial setup position for some subset of spacecraft. On the back of each card is a solution.
 
+![alt tag](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/LL_Setup.png)
+
 Game Description
 
 The goal of this game it to move the red spacecraft to the center red square. One can move any spacecraft but
@@ -17,7 +19,14 @@ Game Play
 Two beginner examples below represent the gameplay. Puzzle 1 is the beginner puzzle shown above. Starting
 from the initial setup, the red spacecraft moves up, left, down, then left to finally end up at the goal position. In
 this simple puzzle, only the red robot had to move. In the more complex puzzles, we also require other helper
-spacecraft to move. Puzzle 2 is an example requiring another helper robot to move as well.The provided code implements a breadth first search algorithm to explore successor states until it finally arrives
+spacecraft to move. Puzzle 2 is an example requiring another helper robot to move as well.
+
+![alt tag](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/Puzzle1_Solution.png)
+![alt tag](https://github.com/asthaprasad93/Lunar_Lockout/edit/master/Images/Puzzle2_solution.png)
+
+
+
+The provided code implements a breadth first search algorithm to explore successor states until it finally arrives
 upon the solution. It can be executed by running the following command:
 
 python run.py -p Puzzle1.txt
