@@ -1,5 +1,4 @@
 # Lunar_Lockout
-## Lunar Lockout
 
 The lunar lockout game has several pieces. First, we have a 5x5 game board with a red square marked in the
 middle. Next, we have 5 helper spacecraft in various colors and then 1 red spacecraft. We are also given card
@@ -25,7 +24,7 @@ spacecraft to move. Puzzle 2 is an example requiring another helper robot to mov
 
 ![alt text](https://github.com/asthaprasad93/Lunar_Lockout/blob/master/Images/Puzzle2_Solution.png)
 
-
+## Code
 
 The provided code implements a breadth first search algorithm to explore successor states until it finally arrives
 upon the solution. It can be executed by running the following command:
