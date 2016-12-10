@@ -25,6 +25,8 @@ python run.py -p Puzzle1.txt
 The text file contains the objects followed by their xy locations in tab separated form. For eg.
 
 r 1 2
+
 g 3 4
+
 etc...
 
