@@ -23,29 +23,10 @@ upon the solution. It can be executed by running the following command:
 python run.py -p Puzzle1.txt
 
 The text file contains the objects followed by their xy locations in tab separated form. For eg.
+
 r 1 2
+
 g 3 4
+
 etc...
 
-The output presents the board at each state in the plan.
-For eg.
-
-- - r - o
-- - - - -
-- - - - -
-- p - g -
-- - - y -
----------------------
-- - r - o
-- - - - -
-- - - - -
-- - p g -
-- - - y -
----------------------
-- - - - o
-- - - - -
-- - r - -
-- - p g -
-- - - y -
----------------------
-Number of states traversed: 3
