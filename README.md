@@ -33,9 +33,9 @@ upon the solution. It can be executed by running the following command:
 
 The text file contains the objects followed by their xy locations in tab separated form. For eg.
 
-`r 1 2
+`r 1 2`
 
-g 3 4`
+`g 3 4`
 
 etc...
 
