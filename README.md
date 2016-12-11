@@ -29,7 +29,7 @@ spacecraft to move. Puzzle 2 is an example requiring another helper robot to mov
 The provided code implements a breadth first search algorithm to explore successor states until it finally arrives
 upon the solution. It can be executed by running the following command:
 
-python run.py -p Puzzle1.txt
+`python run.py -p Puzzle1.txt`
 
 The text file contains the objects followed by their xy locations in tab separated form. For eg.
 
